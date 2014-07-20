@@ -2,8 +2,6 @@
 * [Overview](#overview)
 * [CartoDB tutorial](#introduction-to-cartodb)
 
-# Short link to this page
-
 # Your account
 
 http://`LOGIN_NAME`.cartodb.com
@@ -16,7 +14,7 @@ Maps, generally, can either contain point data, or polygon data. Points would be
 
 ##### Who
 
-* Michael Keller, [@mhkeller](https://twitter.com/mhkeller) - Al Jazeera America, [contact info for questions](http://bit.ly/contact-mhk)
+* Michael Keller, [@mhkeller](https://twitter.com/mhkeller) - [contact info for questions](http://bit.ly/contact-mhk)
 
 ### Bonus
 
